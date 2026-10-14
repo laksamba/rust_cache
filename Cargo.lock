@@ -3,5 +3,5 @@
 version = 4
 
 [[package]]
-name = "Rust_cache"
+name = "rust_cache"
 version = "0.1.0"
